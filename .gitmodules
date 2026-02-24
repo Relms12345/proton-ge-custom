@@ -1,6 +1,7 @@
 [submodule "wine"]
 	path = wine
-	url = https://github.com/ValveSoftware/wine
+	url = https://github.com/Relms12345/wine
+	branch = d2d1-hid
 [submodule "wine-staging"]
 	path = wine-staging
 	url = https://github.com/wine-staging/wine-staging
